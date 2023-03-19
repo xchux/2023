@@ -31,5 +31,7 @@
 <!--START_SECTION:news-->
 | Title | Read Date | Tag | Comments |
 |-------|-----------|-----|----------|
+| [矽谷銀行48小時崩潰實錄](https://www.bnext.com.tw/article/74473/silicon-valley-bank-svb-startup-social-media) | 2023/03/17 | <img src="https://img.shields.io/badge/tag-finance-yellow"/> | 美國第16大銀行倒閉 |
+
 
 <!--END_SECTION:news-->
