@@ -1,37 +1,37 @@
 # 2023
 
 ## Reading
-
 <!--START_SECTION:reading-->
 | Name | Start | Update |
 |------|-------|--------|
-| [<賭金者_長期資本管理公司的升騰與殞落>](https://github.com/xchux/2023/issues/1#issue-1615468890) | 2023-01-10 | 2023-03-08 |
-| [<賭金者_長期資本管理公司的升騰與殞落>](https://github.com/xchux/2023/issues/1#issuecomment-1474545403) | 2023-01-10 | 2023-03-08 |
-
-
+| [賭金者-長期資本管理公司的升騰與殞落](https://github.com/xchux/2023/issues/1#issuecomment-1477354530) | 2023-01-10 | 2023-03-08 |
+| [巴菲特致股東的信](https://github.com/xchux/2023/issues/1#issuecomment-1474545403) | 2023-01-10 | 2023-03-08 |
 <!--END_SECTION:reading-->
 
 ## Blog
-
 <!--START_SECTION:blog-->
-| Name | Start | Update | Comments |
-|------|-------|--------|----------|
-
+| Name | Date | Tag |
+|------|------|-----|
 <!--END_SECTION:blog-->
 
-## Well-written Article
-
-<!--START_SECTION:well_read_article-->
-| Name | Read Date | Tag | Comments |
-|------|-----------|-----|----------|
-
-<!--END_SECTION:well_read_article-->
+## Well-Written Article
+<!--START_SECTION:well_written_article-->
+| Name | Date | Tag |
+|------|-----------|-----|
+<!--END_SECTION:well_written_article-->
 
 ## News
 <!--START_SECTION:news-->
-| Title | Read Date | Tag | Comments |
-|-------|-----------|-----|----------|
-| [矽谷銀行48小時崩潰實錄](https://www.bnext.com.tw/article/74473/silicon-valley-bank-svb-startup-social-media) | 2023/03/17 | <img src="https://img.shields.io/badge/tag-finance-yellow"/> | 美國第16大銀行倒閉 |
-
-
+| Title | Date | Tag |
+|-------|------|-----|
+| [矽谷銀行48小時崩潰實錄](https://github.com/xchux/2023/issues/4#issuecomment-1477348100) | 2023/03/17 | <img src="https://img.shields.io/badge/News-finance-yellow"/> |
+| [Everything You Need to Know About ChatGPT-4](https://github.com/xchux/2023/issues/4#issuecomment-1477353687) | 2023/03/19 | <img src="https://img.shields.io/badge/News-technical-green"/> |
 <!--END_SECTION:news-->
+
+## Movie
+<!--START_SECTION:movie-->
+| Name | Date | Tag |
+|------|------|-----|
+| [鈴芽之旅](https://github.com/xchux/2023/issues/2#issuecomment-1477339318) | 2023-03-19 | <img src="https://img.shields.io/badge/Movie-animate-yellow"/> |
+<!--END_SECTION:movie-->
+
