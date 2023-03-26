@@ -26,6 +26,8 @@
 |-------|------|-----|
 | [矽谷銀行48小時崩潰實錄](https://github.com/xchux/2023/issues/4#issuecomment-1477348100) | 2023/03/17 | <img src="https://img.shields.io/badge/News-finance-yellow"/> |
 | [Everything You Need to Know About ChatGPT-4](https://github.com/xchux/2023/issues/4#issuecomment-1477353687) | 2023/03/19 | <img src="https://img.shields.io/badge/News-technical-green"/> |
+| [GitHub Copilot X](https://github.com/xchux/2023/issues/4#issuecomment-1483735019) | 2023/03/23 | <img src="https://img.shields.io/badge/News-technical-green"/> |
+| [與宏都拉斯斷交](https://github.com/xchux/2023/issues/4#issuecomment-1484011757) | 2023/03/26 | <img src="https://img.shields.io/badge/News-politics-orange"/> |
 <!--END_SECTION:news-->
 
 ## Movie
