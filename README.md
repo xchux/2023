@@ -5,7 +5,7 @@
 | Name | Start | Update |
 |------|-------|--------|
 | [賭金者-長期資本管理公司的升騰與殞落](https://github.com/xchux/2023/issues/1#issuecomment-1477354530) | 2023-01-10 | 2023-03-08 |
-| [巴菲特致股東的信](https://github.com/xchux/2023/issues/1#issuecomment-1474545403) | 2023-01-10 | 2023-03-08 |
+| [巴菲特致股東的信](https://github.com/xchux/2023/issues/1#issuecomment-1474545403) | 2023-03-18 | 2023-03-18 |
 <!--END_SECTION:reading-->
 
 ## Blog
